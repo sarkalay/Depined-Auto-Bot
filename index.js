@@ -11,7 +11,7 @@ const BASE_URL = 'https://api.depined.org/api/stats/earnings';
 
 // Fungsi untuk menampilkan banner ASCII art
 const displayBanner = () => {
-  console.log(chalk.green(figlet.textSync('AirdropInsiders', { horizontalLayout: 'default' })));
+  console.log(chalk.green(figlet.textSync('airdropbomb', { horizontalLayout: 'default' })));
 };
 
 // Format timestamps
