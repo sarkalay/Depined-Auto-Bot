@@ -1,7 +1,7 @@
 {
-  "name": "airdrop-insiders",
+  "name": "airdropbomb",
   "version": "1.0.0",
-  "description": "A multi-account manager for AirdropInsiders.",
+  "description": "A multi-account manager for airdropbomb.",
   "type": "module",
   "main": "index.js",
   "scripts": {
@@ -18,6 +18,6 @@
     "socks-proxy-agent": "^7.0.0"
   },
   "keywords": ["airdrop", "multi-account", "manager", "cli"],
-  "author": "airdropinsiders",
+  "author": "airdropbomb",
   "license": "MIT"
 }
