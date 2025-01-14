@@ -7,7 +7,7 @@ import { SocksProxyAgent } from 'socks-proxy-agent';
 import { HttpsProxyAgent } from 'https-proxy-agent';
 import figlet from 'figlet'; // Tambahkan ini
 
-const BASE_URL = 'https://api.depined.org/api';
+const BASE_URL = 'https://api.depined.org/api/stats/earnings';
 
 // Fungsi untuk menampilkan banner ASCII art
 const displayBanner = () => {
